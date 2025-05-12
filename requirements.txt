@@ -3,4 +3,4 @@ lightgbm
 scikit-learn
 mlflow
 joblib
-hopsworks==3.4.0
+hopsworks[python]>=3.0.0
